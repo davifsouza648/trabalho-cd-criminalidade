@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Configuracao local de ferramentas (nao pertence a um repo compartilhado)
+.claude/
+CLAUDE.md
+.cursor/
+.cursorrules
+.aider*
+.github/copilot-instructions.md
+.continue/
+.windsurfrules
+
+# Artefatos de SO / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Dados brutos pesados (ver README: reproduzir com `python src/carga.py`)
+data/raw/
+data/interim/
+*.zip
