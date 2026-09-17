@@ -238,3 +238,11 @@ data/interim/
 *.zip
 
 PLANO.MD
+# Artefatos de build do LaTeX
+relatorio/*.aux
+relatorio/*.log
+relatorio/*.out
+relatorio/*.fls
+relatorio/*.fdb_latexmk
+relatorio/*.synctex.gz
+relatorio/relatorio.pdf
