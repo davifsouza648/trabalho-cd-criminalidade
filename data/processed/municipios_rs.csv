@@ -1,0 +1,498 @@
+cod_municipio,municipio,municipio_norm,mesorregiao,regiao_intermediaria,populacao,ano_populacao
+4300034,Aceguá,ACEGUA,Sudoeste Rio-grandense,Pelotas,4170,2022
+4300059,Água Santa,AGUA SANTA,Noroeste Rio-grandense,Passo Fundo,3912,2022
+4300109,Agudo,AGUDO,Centro Ocidental Rio-grandense,Santa Maria,16041,2022
+4300208,Ajuricaba,AJURICABA,Noroeste Rio-grandense,Ijuí,6720,2022
+4300307,Alecrim,ALECRIM,Noroeste Rio-grandense,Ijuí,6123,2022
+4300406,Alegrete,ALEGRETE,Sudoeste Rio-grandense,Uruguaiana,72409,2022
+4300455,Alegria,ALEGRIA,Noroeste Rio-grandense,Ijuí,3651,2022
+4300471,Almirante Tamandaré do Sul,ALMIRANTE TAMANDARE DO SUL,Noroeste Rio-grandense,Passo Fundo,1969,2022
+4300505,Alpestre,ALPESTRE,Noroeste Rio-grandense,Passo Fundo,7117,2022
+4300554,Alto Alegre,ALTO ALEGRE,Noroeste Rio-grandense,Passo Fundo,1800,2022
+4300570,Alto Feliz,ALTO FELIZ,Metropolitana de Porto Alegre,Caxias do Sul,3072,2022
+4300604,Alvorada,ALVORADA,Metropolitana de Porto Alegre,Porto Alegre,187315,2022
+4300638,Amaral Ferrador,AMARAL FERRADOR,Sudeste Rio-grandense,Porto Alegre,5310,2022
+4300646,Ametista do Sul,AMETISTA DO SUL,Noroeste Rio-grandense,Passo Fundo,7650,2022
+4300661,André da Rocha,ANDRE DA ROCHA,Nordeste Rio-grandense,Caxias do Sul,1135,2022
+4300703,Anta Gorda,ANTA GORDA,Nordeste Rio-grandense,Santa Cruz do Sul - Lajeado,5957,2022
+4300802,Antônio Prado,ANTONIO PRADO,Nordeste Rio-grandense,Caxias do Sul,13045,2022
+4300851,Arambaré,ARAMBARE,Metropolitana de Porto Alegre,Porto Alegre,4112,2022
+4300877,Araricá,ARARICA,Metropolitana de Porto Alegre,Porto Alegre,8525,2022
+4300901,Aratiba,ARATIBA,Noroeste Rio-grandense,Passo Fundo,6483,2022
+4301008,Arroio do Meio,ARROIO DO MEIO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,21958,2022
+4301057,Arroio do Sal,ARROIO DO SAL,Metropolitana de Porto Alegre,Porto Alegre,11057,2022
+4301073,Arroio do Padre,ARROIO DO PADRE,Sudeste Rio-grandense,Pelotas,2599,2022
+4301107,Arroio dos Ratos,ARROIO DOS RATOS,Metropolitana de Porto Alegre,Porto Alegre,14601,2022
+4301206,Arroio do Tigre,ARROIO DO TIGRE,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,12058,2022
+4301305,Arroio Grande,ARROIO GRANDE,Sudeste Rio-grandense,Pelotas,17558,2022
+4301404,Arvorezinha,ARVOREZINHA,Nordeste Rio-grandense,Passo Fundo,10322,2022
+4301503,Augusto Pestana,AUGUSTO PESTANA,Noroeste Rio-grandense,Ijuí,7149,2022
+4301552,Áurea,AUREA,Noroeste Rio-grandense,Passo Fundo,3396,2022
+4301602,Bagé,BAGE,Sudoeste Rio-grandense,Pelotas,117938,2022
+4301636,Balneário Pinhal,BALNEARIO PINHAL,Metropolitana de Porto Alegre,Porto Alegre,14955,2022
+4301651,Barão,BARAO,Metropolitana de Porto Alegre,Caxias do Sul,6461,2022
+4301701,Barão de Cotegipe,BARAO DE COTEGIPE,Noroeste Rio-grandense,Passo Fundo,7144,2022
+4301750,Barão do Triunfo,BARAO DO TRIUNFO,Metropolitana de Porto Alegre,Porto Alegre,5889,2022
+4301800,Barracão,BARRACAO,Noroeste Rio-grandense,Passo Fundo,4831,2022
+4301859,Barra do Guarita,BARRA DO GUARITA,Noroeste Rio-grandense,Ijuí,3161,2022
+4301875,Barra do Quaraí,BARRA DO QUARAI,Sudoeste Rio-grandense,Uruguaiana,4241,2022
+4301909,Barra do Ribeiro,BARRA DO RIBEIRO,Metropolitana de Porto Alegre,Porto Alegre,12225,2022
+4301925,Barra do Rio Azul,BARRA DO RIO AZUL,Noroeste Rio-grandense,Passo Fundo,1696,2022
+4301958,Barra Funda,BARRA FUNDA,Noroeste Rio-grandense,Passo Fundo,2498,2022
+4302006,Barros Cassal,BARROS CASSAL,Noroeste Rio-grandense,Passo Fundo,9296,2022
+4302055,Benjamin Constant do Sul,BENJAMIN CONSTANT DO SUL,Noroeste Rio-grandense,Passo Fundo,2082,2022
+4302105,Bento Gonçalves,BENTO GONCALVES,Nordeste Rio-grandense,Caxias do Sul,123151,2022
+4302154,Boa Vista das Missões,BOA VISTA DAS MISSOES,Noroeste Rio-grandense,Passo Fundo,1933,2022
+4302204,Boa Vista do Buricá,BOA VISTA DO BURICA,Noroeste Rio-grandense,Ijuí,6966,2022
+4302220,Boa Vista do Cadeado,BOA VISTA DO CADEADO,Noroeste Rio-grandense,Passo Fundo,2229,2022
+4302238,Boa Vista do Incra,BOA VISTA DO INCRA,Noroeste Rio-grandense,Passo Fundo,2271,2022
+4302253,Boa Vista do Sul,BOA VISTA DO SUL,Nordeste Rio-grandense,Caxias do Sul,2779,2022
+4302303,Bom Jesus,BOM JESUS,Nordeste Rio-grandense,Caxias do Sul,11202,2022
+4302352,Bom Princípio,BOM PRINCIPIO,Metropolitana de Porto Alegre,Porto Alegre,13142,2022
+4302378,Bom Progresso,BOM PROGRESSO,Noroeste Rio-grandense,Ijuí,2096,2022
+4302402,Bom Retiro do Sul,BOM RETIRO DO SUL,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,12294,2022
+4302451,Boqueirão do Leão,BOQUEIRAO DO LEAO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,6247,2022
+4302501,Bossoroca,BOSSOROCA,Noroeste Rio-grandense,Ijuí,5890,2022
+4302584,Bozano,BOZANO,Noroeste Rio-grandense,Ijuí,2151,2022
+4302600,Braga,BRAGA,Noroeste Rio-grandense,Ijuí,3268,2022
+4302659,Brochier,BROCHIER,Metropolitana de Porto Alegre,Porto Alegre,4966,2022
+4302709,Butiá,BUTIA,Metropolitana de Porto Alegre,Porto Alegre,19084,2022
+4302808,Caçapava do Sul,CACAPAVA DO SUL,Sudeste Rio-grandense,Santa Maria,32515,2022
+4302907,Cacequi,CACEQUI,Centro Ocidental Rio-grandense,Santa Maria,11157,2022
+4303004,Cachoeira do Sul,CACHOEIRA DO SUL,Centro Oriental Rio-grandense,Santa Maria,80070,2022
+4303103,Cachoeirinha,CACHOEIRINHA,Metropolitana de Porto Alegre,Porto Alegre,136258,2022
+4303202,Cacique Doble,CACIQUE DOBLE,Noroeste Rio-grandense,Passo Fundo,4603,2022
+4303301,Caibaté,CAIBATE,Noroeste Rio-grandense,Ijuí,4704,2022
+4303400,Caiçara,CAICARA,Noroeste Rio-grandense,Passo Fundo,4836,2022
+4303509,Camaquã,CAMAQUA,Metropolitana de Porto Alegre,Porto Alegre,62200,2022
+4303558,Camargo,CAMARGO,Noroeste Rio-grandense,Passo Fundo,2981,2022
+4303608,Cambará do Sul,CAMBARA DO SUL,Nordeste Rio-grandense,Caxias do Sul,6361,2022
+4303673,Campestre da Serra,CAMPESTRE DA SERRA,Nordeste Rio-grandense,Caxias do Sul,3242,2022
+4303707,Campina das Missões,CAMPINA DAS MISSOES,Noroeste Rio-grandense,Ijuí,5882,2022
+4303806,Campinas do Sul,CAMPINAS DO SUL,Noroeste Rio-grandense,Passo Fundo,5284,2022
+4303905,Campo Bom,CAMPO BOM,Metropolitana de Porto Alegre,Porto Alegre,62886,2022
+4304002,Campo Novo,CAMPO NOVO,Noroeste Rio-grandense,Ijuí,4975,2022
+4304101,Campos Borges,CAMPOS BORGES,Noroeste Rio-grandense,Passo Fundo,3613,2022
+4304200,Candelária,CANDELARIA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,28906,2022
+4304309,Cândido Godói,CANDIDO GODOI,Noroeste Rio-grandense,Ijuí,6294,2022
+4304358,Candiota,CANDIOTA,Sudeste Rio-grandense,Pelotas,10710,2022
+4304408,Canela,CANELA,Metropolitana de Porto Alegre,Caxias do Sul,48946,2022
+4304507,Canguçu,CANGUCU,Sudeste Rio-grandense,Pelotas,49680,2022
+4304606,Canoas,CANOAS,Metropolitana de Porto Alegre,Porto Alegre,347657,2022
+4304614,Canudos do Vale,CANUDOS DO VALE,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1656,2022
+4304622,Capão Bonito do Sul,CAPAO BONITO DO SUL,Nordeste Rio-grandense,Passo Fundo,1733,2022
+4304630,Capão da Canoa,CAPAO DA CANOA,Metropolitana de Porto Alegre,Porto Alegre,63594,2022
+4304655,Capão do Cipó,CAPAO DO CIPO,Centro Ocidental Rio-grandense,Santa Maria,3119,2022
+4304663,Capão do Leão,CAPAO DO LEAO,Sudeste Rio-grandense,Pelotas,26487,2022
+4304671,Capivari do Sul,CAPIVARI DO SUL,Metropolitana de Porto Alegre,Porto Alegre,3991,2022
+4304689,Capela de Santana,CAPELA DE SANTANA,Metropolitana de Porto Alegre,Porto Alegre,11159,2022
+4304697,Capitão,CAPITAO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,2921,2022
+4304705,Carazinho,CARAZINHO,Noroeste Rio-grandense,Passo Fundo,61804,2022
+4304713,Caraá,CARAA,Metropolitana de Porto Alegre,Porto Alegre,7394,2022
+4304804,Carlos Barbosa,CARLOS BARBOSA,Nordeste Rio-grandense,Caxias do Sul,30420,2022
+4304853,Carlos Gomes,CARLOS GOMES,Noroeste Rio-grandense,Passo Fundo,1368,2022
+4304903,Casca,CASCA,Noroeste Rio-grandense,Passo Fundo,9465,2022
+4304952,Caseiros,CASEIROS,Noroeste Rio-grandense,Passo Fundo,3000,2022
+4305009,Catuípe,CATUIPE,Noroeste Rio-grandense,Ijuí,8674,2022
+4305108,Caxias do Sul,CAXIAS DO SUL,Nordeste Rio-grandense,Caxias do Sul,463501,2022
+4305116,Centenário,CENTENARIO,Noroeste Rio-grandense,Passo Fundo,2721,2022
+4305124,Cerrito,CERRITO,Sudeste Rio-grandense,Pelotas,5808,2022
+4305132,Cerro Branco,CERRO BRANCO,Centro Oriental Rio-grandense,Santa Maria,3802,2022
+4305157,Cerro Grande,CERRO GRANDE,Noroeste Rio-grandense,Passo Fundo,2379,2022
+4305173,Cerro Grande do Sul,CERRO GRANDE DO SUL,Metropolitana de Porto Alegre,Porto Alegre,9178,2022
+4305207,Cerro Largo,CERRO LARGO,Noroeste Rio-grandense,Ijuí,13705,2022
+4305306,Chapada,CHAPADA,Noroeste Rio-grandense,Passo Fundo,9540,2022
+4305355,Charqueadas,CHARQUEADAS,Metropolitana de Porto Alegre,Porto Alegre,35012,2022
+4305371,Charrua,CHARRUA,Noroeste Rio-grandense,Passo Fundo,2768,2022
+4305405,Chiapetta,CHIAPETTA,Noroeste Rio-grandense,Ijuí,3913,2022
+4305439,Chuí,CHUI,Sudeste Rio-grandense,Pelotas,6262,2022
+4305447,Chuvisca,CHUVISCA,Metropolitana de Porto Alegre,Porto Alegre,4597,2022
+4305454,Cidreira,CIDREIRA,Metropolitana de Porto Alegre,Porto Alegre,17071,2022
+4305504,Ciríaco,CIRIACO,Noroeste Rio-grandense,Passo Fundo,4149,2022
+4305587,Colinas,COLINAS,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,2423,2022
+4305603,Colorado,COLORADO,Noroeste Rio-grandense,Passo Fundo,3258,2022
+4305702,Condor,CONDOR,Noroeste Rio-grandense,Ijuí,6406,2022
+4305801,Constantina,CONSTANTINA,Noroeste Rio-grandense,Passo Fundo,10385,2022
+4305835,Coqueiro Baixo,COQUEIRO BAIXO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1290,2022
+4305850,Coqueiros do Sul,COQUEIROS DO SUL,Noroeste Rio-grandense,Passo Fundo,2211,2022
+4305871,Coronel Barros,CORONEL BARROS,Noroeste Rio-grandense,Ijuí,2822,2022
+4305900,Coronel Bicaco,CORONEL BICACO,Noroeste Rio-grandense,Ijuí,6144,2022
+4305934,Coronel Pilar,CORONEL PILAR,Nordeste Rio-grandense,Caxias do Sul,1607,2022
+4305959,Cotiporã,COTIPORA,Nordeste Rio-grandense,Caxias do Sul,3846,2022
+4305975,Coxilha,COXILHA,Noroeste Rio-grandense,Passo Fundo,2667,2022
+4306007,Crissiumal,CRISSIUMAL,Noroeste Rio-grandense,Ijuí,12886,2022
+4306056,Cristal,CRISTAL,Sudeste Rio-grandense,Porto Alegre,7299,2022
+4306072,Cristal do Sul,CRISTAL DO SUL,Noroeste Rio-grandense,Passo Fundo,2692,2022
+4306106,Cruz Alta,CRUZ ALTA,Noroeste Rio-grandense,Passo Fundo,58913,2022
+4306130,Cruzaltense,CRUZALTENSE,Noroeste Rio-grandense,Passo Fundo,1635,2022
+4306205,Cruzeiro do Sul,CRUZEIRO DO SUL,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,11600,2022
+4306304,David Canabarro,DAVID CANABARRO,Noroeste Rio-grandense,Passo Fundo,4321,2022
+4306320,Derrubadas,DERRUBADAS,Noroeste Rio-grandense,Ijuí,2751,2022
+4306353,Dezesseis de Novembro,DEZESSEIS DE NOVEMBRO,Noroeste Rio-grandense,Ijuí,2507,2022
+4306379,Dilermando de Aguiar,DILERMANDO DE AGUIAR,Centro Ocidental Rio-grandense,Santa Maria,2806,2022
+4306403,Dois Irmãos,DOIS IRMAOS,Metropolitana de Porto Alegre,Porto Alegre,30709,2022
+4306429,Dois Irmãos das Missões,DOIS IRMAOS DAS MISSOES,Noroeste Rio-grandense,Passo Fundo,2090,2022
+4306452,Dois Lajeados,DOIS LAJEADOS,Nordeste Rio-grandense,Caxias do Sul,3097,2022
+4306502,Dom Feliciano,DOM FELICIANO,Metropolitana de Porto Alegre,Porto Alegre,13051,2022
+4306551,Dom Pedro de Alcântara,DOM PEDRO DE ALCANTARA,Metropolitana de Porto Alegre,Porto Alegre,2562,2022
+4306601,Dom Pedrito,DOM PEDRITO,Sudoeste Rio-grandense,Pelotas,36981,2022
+4306700,Dona Francisca,DONA FRANCISCA,Centro Ocidental Rio-grandense,Santa Maria,3079,2022
+4306734,Doutor Maurício Cardoso,DOUTOR MAURICIO CARDOSO,Noroeste Rio-grandense,Ijuí,4470,2022
+4306759,Doutor Ricardo,DOUTOR RICARDO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1888,2022
+4306767,Eldorado do Sul,ELDORADO DO SUL,Metropolitana de Porto Alegre,Porto Alegre,39559,2022
+4306809,Encantado,ENCANTADO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,22962,2022
+4306908,Encruzilhada do Sul,ENCRUZILHADA DO SUL,Sudeste Rio-grandense,Santa Cruz do Sul - Lajeado,23819,2022
+4306924,Engenho Velho,ENGENHO VELHO,Noroeste Rio-grandense,Passo Fundo,1296,2022
+4306932,Entre-Ijuís,ENTRE IJUIS,Noroeste Rio-grandense,Ijuí,9158,2022
+4306957,Entre Rios do Sul,ENTRE RIOS DO SUL,Noroeste Rio-grandense,Passo Fundo,2685,2022
+4306973,Erebango,EREBANGO,Noroeste Rio-grandense,Passo Fundo,3054,2022
+4307005,Erechim,ERECHIM,Noroeste Rio-grandense,Passo Fundo,105705,2022
+4307054,Ernestina,ERNESTINA,Noroeste Rio-grandense,Passo Fundo,3034,2022
+4307104,Herval,HERVAL,Sudeste Rio-grandense,Pelotas,6191,2022
+4307203,Erval Grande,ERVAL GRANDE,Noroeste Rio-grandense,Passo Fundo,4930,2022
+4307302,Erval Seco,ERVAL SECO,Noroeste Rio-grandense,Passo Fundo,6787,2022
+4307401,Esmeralda,ESMERALDA,Nordeste Rio-grandense,Caxias do Sul,3195,2022
+4307450,Esperança do Sul,ESPERANCA DO SUL,Noroeste Rio-grandense,Ijuí,3226,2022
+4307500,Espumoso,ESPUMOSO,Noroeste Rio-grandense,Passo Fundo,15173,2022
+4307559,Estação,ESTACAO,Noroeste Rio-grandense,Passo Fundo,5582,2022
+4307609,Estância Velha,ESTANCIA VELHA,Metropolitana de Porto Alegre,Porto Alegre,47924,2022
+4307708,Esteio,ESTEIO,Metropolitana de Porto Alegre,Porto Alegre,76137,2022
+4307807,Estrela,ESTRELA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,32183,2022
+4307815,Estrela Velha,ESTRELA VELHA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3070,2022
+4307831,Eugênio de Castro,EUGENIO DE CASTRO,Noroeste Rio-grandense,Ijuí,2633,2022
+4307864,Fagundes Varela,FAGUNDES VARELA,Nordeste Rio-grandense,Caxias do Sul,2566,2022
+4307906,Farroupilha,FARROUPILHA,Nordeste Rio-grandense,Caxias do Sul,70286,2022
+4308003,Faxinal do Soturno,FAXINAL DO SOTURNO,Centro Ocidental Rio-grandense,Santa Maria,6702,2022
+4308052,Faxinalzinho,FAXINALZINHO,Noroeste Rio-grandense,Passo Fundo,2520,2022
+4308078,Fazenda Vilanova,FAZENDA VILANOVA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,4291,2022
+4308102,Feliz,FELIZ,Metropolitana de Porto Alegre,Caxias do Sul,13764,2022
+4308201,Flores da Cunha,FLORES DA CUNHA,Nordeste Rio-grandense,Caxias do Sul,30892,2022
+4308250,Floriano Peixoto,FLORIANO PEIXOTO,Noroeste Rio-grandense,Passo Fundo,1668,2022
+4308300,Fontoura Xavier,FONTOURA XAVIER,Noroeste Rio-grandense,Passo Fundo,9550,2022
+4308409,Formigueiro,FORMIGUEIRO,Centro Ocidental Rio-grandense,Santa Maria,6413,2022
+4308433,Forquetinha,FORQUETINHA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,2393,2022
+4308458,Fortaleza dos Valos,FORTALEZA DOS VALOS,Noroeste Rio-grandense,Passo Fundo,4477,2022
+4308508,Frederico Westphalen,FREDERICO WESTPHALEN,Noroeste Rio-grandense,Passo Fundo,32627,2022
+4308607,Garibaldi,GARIBALDI,Nordeste Rio-grandense,Caxias do Sul,34335,2022
+4308656,Garruchos,GARRUCHOS,Sudoeste Rio-grandense,Ijuí,2688,2022
+4308706,Gaurama,GAURAMA,Noroeste Rio-grandense,Passo Fundo,5665,2022
+4308805,General Câmara,GENERAL CAMARA,Metropolitana de Porto Alegre,Porto Alegre,7612,2022
+4308854,Gentil,GENTIL,Noroeste Rio-grandense,Passo Fundo,1744,2022
+4308904,Getúlio Vargas,GETULIO VARGAS,Noroeste Rio-grandense,Passo Fundo,16602,2022
+4309001,Giruá,GIRUA,Noroeste Rio-grandense,Ijuí,16013,2022
+4309050,Glorinha,GLORINHA,Metropolitana de Porto Alegre,Porto Alegre,7658,2022
+4309100,Gramado,GRAMADO,Metropolitana de Porto Alegre,Caxias do Sul,40134,2022
+4309126,Gramado dos Loureiros,GRAMADO DOS LOUREIROS,Noroeste Rio-grandense,Passo Fundo,2014,2022
+4309159,Gramado Xavier,GRAMADO XAVIER,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3304,2022
+4309209,Gravataí,GRAVATAI,Metropolitana de Porto Alegre,Porto Alegre,265074,2022
+4309258,Guabiju,GUABIJU,Nordeste Rio-grandense,Caxias do Sul,1417,2022
+4309308,Guaíba,GUAIBA,Metropolitana de Porto Alegre,Porto Alegre,92924,2022
+4309407,Guaporé,GUAPORE,Nordeste Rio-grandense,Caxias do Sul,25268,2022
+4309506,Guarani das Missões,GUARANI DAS MISSOES,Noroeste Rio-grandense,Ijuí,7415,2022
+4309555,Harmonia,HARMONIA,Metropolitana de Porto Alegre,Porto Alegre,5378,2022
+4309571,Herveiras,HERVEIRAS,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,2565,2022
+4309605,Horizontina,HORIZONTINA,Noroeste Rio-grandense,Ijuí,18851,2022
+4309654,Hulha Negra,HULHA NEGRA,Sudoeste Rio-grandense,Pelotas,5976,2022
+4309704,Humaitá,HUMAITA,Noroeste Rio-grandense,Ijuí,4681,2022
+4309753,Ibarama,IBARAMA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3732,2022
+4309803,Ibiaçá,IBIACA,Noroeste Rio-grandense,Passo Fundo,4527,2022
+4309902,Ibiraiaras,IBIRAIARAS,Noroeste Rio-grandense,Passo Fundo,6776,2022
+4309951,Ibirapuitã,IBIRAPUITA,Noroeste Rio-grandense,Passo Fundo,3723,2022
+4310009,Ibirubá,IBIRUBA,Noroeste Rio-grandense,Passo Fundo,21583,2022
+4310108,Igrejinha,IGREJINHA,Metropolitana de Porto Alegre,Porto Alegre,32808,2022
+4310207,Ijuí,IJUI,Noroeste Rio-grandense,Ijuí,84780,2022
+4310306,Ilópolis,ILOPOLIS,Nordeste Rio-grandense,Santa Cruz do Sul - Lajeado,4157,2022
+4310330,Imbé,IMBE,Metropolitana de Porto Alegre,Porto Alegre,26824,2022
+4310363,Imigrante,IMIGRANTE,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3080,2022
+4310405,Independência,INDEPENDENCIA,Noroeste Rio-grandense,Ijuí,6427,2022
+4310413,Inhacorá,INHACORA,Noroeste Rio-grandense,Ijuí,2014,2022
+4310439,Ipê,IPE,Nordeste Rio-grandense,Caxias do Sul,5399,2022
+4310462,Ipiranga do Sul,IPIRANGA DO SUL,Noroeste Rio-grandense,Passo Fundo,1720,2022
+4310504,Iraí,IRAI,Noroeste Rio-grandense,Passo Fundo,7482,2022
+4310538,Itaara,ITAARA,Centro Ocidental Rio-grandense,Santa Maria,5572,2022
+4310553,Itacurubi,ITACURUBI,Centro Ocidental Rio-grandense,Santa Maria,2995,2022
+4310579,Itapuca,ITAPUCA,Nordeste Rio-grandense,Passo Fundo,1937,2022
+4310603,Itaqui,ITAQUI,Sudoeste Rio-grandense,Uruguaiana,35768,2022
+4310652,Itati,ITATI,Metropolitana de Porto Alegre,Porto Alegre,2638,2022
+4310702,Itatiba do Sul,ITATIBA DO SUL,Noroeste Rio-grandense,Passo Fundo,3208,2022
+4310751,Ivorá,IVORA,Centro Ocidental Rio-grandense,Santa Maria,1929,2022
+4310801,Ivoti,IVOTI,Metropolitana de Porto Alegre,Porto Alegre,22983,2022
+4310850,Jaboticaba,JABOTICABA,Noroeste Rio-grandense,Passo Fundo,3779,2022
+4310876,Jacuizinho,JACUIZINHO,Noroeste Rio-grandense,Passo Fundo,2040,2022
+4310900,Jacutinga,JACUTINGA,Noroeste Rio-grandense,Passo Fundo,3338,2022
+4311007,Jaguarão,JAGUARAO,Sudeste Rio-grandense,Pelotas,26603,2022
+4311106,Jaguari,JAGUARI,Centro Ocidental Rio-grandense,Santa Maria,10579,2022
+4311122,Jaquirana,JAQUIRANA,Nordeste Rio-grandense,Caxias do Sul,3690,2022
+4311130,Jari,JARI,Centro Ocidental Rio-grandense,Santa Maria,3349,2022
+4311155,Jóia,JOIA,Noroeste Rio-grandense,Ijuí,7184,2022
+4311205,Júlio de Castilhos,JULIO DE CASTILHOS,Centro Ocidental Rio-grandense,Santa Maria,18226,2022
+4311239,Lagoa Bonita do Sul,LAGOA BONITA DO SUL,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,2251,2022
+4311254,Lagoão,LAGOAO,Noroeste Rio-grandense,Santa Cruz do Sul - Lajeado,5341,2022
+4311270,Lagoa dos Três Cantos,LAGOA DOS TRES CANTOS,Noroeste Rio-grandense,Passo Fundo,1738,2022
+4311304,Lagoa Vermelha,LAGOA VERMELHA,Nordeste Rio-grandense,Passo Fundo,27659,2022
+4311403,Lajeado,LAJEADO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,93646,2022
+4311429,Lajeado do Bugre,LAJEADO DO BUGRE,Noroeste Rio-grandense,Passo Fundo,2601,2022
+4311502,Lavras do Sul,LAVRAS DO SUL,Sudoeste Rio-grandense,Santa Maria,7157,2022
+4311601,Liberato Salzano,LIBERATO SALZANO,Noroeste Rio-grandense,Passo Fundo,4781,2022
+4311627,Lindolfo Collor,LINDOLFO COLLOR,Metropolitana de Porto Alegre,Porto Alegre,6248,2022
+4311643,Linha Nova,LINHA NOVA,Metropolitana de Porto Alegre,Porto Alegre,1683,2022
+4311700,Machadinho,MACHADINHO,Noroeste Rio-grandense,Passo Fundo,5735,2022
+4311718,Maçambará,MACAMBARA,Sudoeste Rio-grandense,Uruguaiana,4425,2022
+4311734,Mampituba,MAMPITUBA,Metropolitana de Porto Alegre,Porto Alegre,3131,2022
+4311759,Manoel Viana,MANOEL VIANA,Sudoeste Rio-grandense,Uruguaiana,6801,2022
+4311775,Maquiné,MAQUINE,Metropolitana de Porto Alegre,Porto Alegre,7418,2022
+4311791,Maratá,MARATA,Metropolitana de Porto Alegre,Porto Alegre,2470,2022
+4311809,Marau,MARAU,Noroeste Rio-grandense,Passo Fundo,45124,2022
+4311908,Marcelino Ramos,MARCELINO RAMOS,Noroeste Rio-grandense,Passo Fundo,4320,2022
+4311981,Mariana Pimentel,MARIANA PIMENTEL,Metropolitana de Porto Alegre,Porto Alegre,3916,2022
+4312005,Mariano Moro,MARIANO MORO,Noroeste Rio-grandense,Passo Fundo,1858,2022
+4312054,Marques de Souza,MARQUES DE SOUZA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3969,2022
+4312104,Mata,MATA,Centro Ocidental Rio-grandense,Santa Maria,4698,2022
+4312138,Mato Castelhano,MATO CASTELHANO,Noroeste Rio-grandense,Passo Fundo,2553,2022
+4312153,Mato Leitão,MATO LEITAO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,4859,2022
+4312179,Mato Queimado,MATO QUEIMADO,Noroeste Rio-grandense,Ijuí,1795,2022
+4312203,Maximiliano de Almeida,MAXIMILIANO DE ALMEIDA,Noroeste Rio-grandense,Passo Fundo,4191,2022
+4312252,Minas do Leão,MINAS DO LEAO,Metropolitana de Porto Alegre,Porto Alegre,7505,2022
+4312302,Miraguaí,MIRAGUAI,Noroeste Rio-grandense,Ijuí,4427,2022
+4312351,Montauri,MONTAURI,Nordeste Rio-grandense,Caxias do Sul,1499,2022
+4312377,Monte Alegre dos Campos,MONTE ALEGRE DOS CAMPOS,Nordeste Rio-grandense,Caxias do Sul,3180,2022
+4312385,Monte Belo do Sul,MONTE BELO DO SUL,Nordeste Rio-grandense,Caxias do Sul,2557,2022
+4312401,Montenegro,MONTENEGRO,Metropolitana de Porto Alegre,Porto Alegre,64322,2022
+4312427,Mormaço,MORMACO,Noroeste Rio-grandense,Passo Fundo,2756,2022
+4312443,Morrinhos do Sul,MORRINHOS DO SUL,Metropolitana de Porto Alegre,Porto Alegre,3071,2022
+4312450,Morro Redondo,MORRO REDONDO,Sudeste Rio-grandense,Pelotas,6046,2022
+4312476,Morro Reuter,MORRO REUTER,Metropolitana de Porto Alegre,Porto Alegre,6029,2022
+4312500,Mostardas,MOSTARDAS,Metropolitana de Porto Alegre,Porto Alegre,12090,2022
+4312609,Muçum,MUCUM,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,4601,2022
+4312617,Muitos Capões,MUITOS CAPOES,Nordeste Rio-grandense,Caxias do Sul,2879,2022
+4312625,Muliterno,MULITERNO,Noroeste Rio-grandense,Passo Fundo,1721,2022
+4312658,Não-Me-Toque,NAO ME TOQUE,Noroeste Rio-grandense,Passo Fundo,17898,2022
+4312674,Nicolau Vergueiro,NICOLAU VERGUEIRO,Noroeste Rio-grandense,Passo Fundo,1932,2022
+4312708,Nonoai,NONOAI,Noroeste Rio-grandense,Passo Fundo,13719,2022
+4312757,Nova Alvorada,NOVA ALVORADA,Nordeste Rio-grandense,Passo Fundo,3163,2022
+4312807,Nova Araçá,NOVA ARACA,Nordeste Rio-grandense,Caxias do Sul,4954,2022
+4312906,Nova Bassano,NOVA BASSANO,Nordeste Rio-grandense,Caxias do Sul,9649,2022
+4312955,Nova Boa Vista,NOVA BOA VISTA,Noroeste Rio-grandense,Passo Fundo,2042,2022
+4313003,Nova Bréscia,NOVA BRESCIA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3044,2022
+4313011,Nova Candelária,NOVA CANDELARIA,Noroeste Rio-grandense,Ijuí,3061,2022
+4313037,Nova Esperança do Sul,NOVA ESPERANCA DO SUL,Centro Ocidental Rio-grandense,Santa Maria,4865,2022
+4313060,Nova Hartz,NOVA HARTZ,Metropolitana de Porto Alegre,Porto Alegre,20088,2022
+4313086,Nova Pádua,NOVA PADUA,Nordeste Rio-grandense,Caxias do Sul,2343,2022
+4313102,Nova Palma,NOVA PALMA,Centro Ocidental Rio-grandense,Santa Maria,5586,2022
+4313201,Nova Petrópolis,NOVA PETROPOLIS,Metropolitana de Porto Alegre,Caxias do Sul,23300,2022
+4313300,Nova Prata,NOVA PRATA,Nordeste Rio-grandense,Caxias do Sul,25692,2022
+4313334,Nova Ramada,NOVA RAMADA,Noroeste Rio-grandense,Ijuí,2163,2022
+4313359,Nova Roma do Sul,NOVA ROMA DO SUL,Nordeste Rio-grandense,Caxias do Sul,3466,2022
+4313375,Nova Santa Rita,NOVA SANTA RITA,Metropolitana de Porto Alegre,Porto Alegre,29024,2022
+4313391,Novo Cabrais,NOVO CABRAIS,Centro Oriental Rio-grandense,Santa Maria,3568,2022
+4313409,Novo Hamburgo,NOVO HAMBURGO,Metropolitana de Porto Alegre,Porto Alegre,227646,2022
+4313425,Novo Machado,NOVO MACHADO,Noroeste Rio-grandense,Ijuí,3198,2022
+4313441,Novo Tiradentes,NOVO TIRADENTES,Noroeste Rio-grandense,Passo Fundo,2146,2022
+4313466,Novo Xingu,NOVO XINGU,Noroeste Rio-grandense,Passo Fundo,1646,2022
+4313490,Novo Barreiro,NOVO BARREIRO,Noroeste Rio-grandense,Passo Fundo,4272,2022
+4313508,Osório,OSORIO,Metropolitana de Porto Alegre,Porto Alegre,47396,2022
+4313607,Paim Filho,PAIM FILHO,Noroeste Rio-grandense,Passo Fundo,3629,2022
+4313656,Palmares do Sul,PALMARES DO SUL,Metropolitana de Porto Alegre,Porto Alegre,12844,2022
+4313706,Palmeira das Missões,PALMEIRA DAS MISSOES,Noroeste Rio-grandense,Passo Fundo,33216,2022
+4313805,Palmitinho,PALMITINHO,Noroeste Rio-grandense,Passo Fundo,7839,2022
+4313904,Panambi,PANAMBI,Noroeste Rio-grandense,Ijuí,43515,2022
+4313953,Pantano Grande,PANTANO GRANDE,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,10212,2022
+4314001,Paraí,PARAI,Nordeste Rio-grandense,Caxias do Sul,7194,2022
+4314027,Paraíso do Sul,PARAISO DO SUL,Centro Oriental Rio-grandense,Santa Maria,6519,2022
+4314035,Pareci Novo,PARECI NOVO,Metropolitana de Porto Alegre,Porto Alegre,4319,2022
+4314050,Parobé,PAROBE,Metropolitana de Porto Alegre,Porto Alegre,52058,2022
+4314068,Passa Sete,PASSA SETE,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3983,2022
+4314076,Passo do Sobrado,PASSO DO SOBRADO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,6025,2022
+4314100,Passo Fundo,PASSO FUNDO,Noroeste Rio-grandense,Passo Fundo,206215,2022
+4314134,Paulo Bento,PAULO BENTO,Noroeste Rio-grandense,Passo Fundo,2144,2022
+4314159,Paverama,PAVERAMA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,7978,2022
+4314175,Pedras Altas,PEDRAS ALTAS,Sudeste Rio-grandense,Pelotas,2061,2022
+4314209,Pedro Osório,PEDRO OSORIO,Sudeste Rio-grandense,Pelotas,7484,2022
+4314308,Pejuçara,PEJUCARA,Noroeste Rio-grandense,Ijuí,3745,2022
+4314407,Pelotas,PELOTAS,Sudeste Rio-grandense,Pelotas,325685,2022
+4314423,Picada Café,PICADA CAFE,Metropolitana de Porto Alegre,Caxias do Sul,5351,2022
+4314456,Pinhal,PINHAL,Noroeste Rio-grandense,Passo Fundo,2959,2022
+4314464,Pinhal da Serra,PINHAL DA SERRA,Nordeste Rio-grandense,Caxias do Sul,2248,2022
+4314472,Pinhal Grande,PINHAL GRANDE,Centro Ocidental Rio-grandense,Santa Maria,3805,2022
+4314498,Pinheirinho do Vale,PINHEIRINHO DO VALE,Noroeste Rio-grandense,Passo Fundo,4540,2022
+4314506,Pinheiro Machado,PINHEIRO MACHADO,Sudeste Rio-grandense,Pelotas,11214,2022
+4314548,Pinto Bandeira,PINTO BANDEIRA,Nordeste Rio-grandense,Caxias do Sul,2723,2022
+4314555,Pirapó,PIRAPO,Noroeste Rio-grandense,Ijuí,2260,2022
+4314605,Piratini,PIRATINI,Sudeste Rio-grandense,Pelotas,17504,2022
+4314704,Planalto,PLANALTO,Noroeste Rio-grandense,Passo Fundo,10406,2022
+4314753,Poço das Antas,POCO DAS ANTAS,Metropolitana de Porto Alegre,Santa Cruz do Sul - Lajeado,2171,2022
+4314779,Pontão,PONTAO,Noroeste Rio-grandense,Passo Fundo,3296,2022
+4314787,Ponte Preta,PONTE PRETA,Noroeste Rio-grandense,Passo Fundo,1575,2022
+4314803,Portão,PORTAO,Metropolitana de Porto Alegre,Porto Alegre,34071,2022
+4314902,Porto Alegre,PORTO ALEGRE,Metropolitana de Porto Alegre,Porto Alegre,1332845,2022
+4315008,Porto Lucena,PORTO LUCENA,Noroeste Rio-grandense,Ijuí,4360,2022
+4315057,Porto Mauá,PORTO MAUA,Noroeste Rio-grandense,Ijuí,2142,2022
+4315073,Porto Vera Cruz,PORTO VERA CRUZ,Noroeste Rio-grandense,Ijuí,1560,2022
+4315107,Porto Xavier,PORTO XAVIER,Noroeste Rio-grandense,Ijuí,9938,2022
+4315131,Pouso Novo,POUSO NOVO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1739,2022
+4315149,Presidente Lucena,PRESIDENTE LUCENA,Metropolitana de Porto Alegre,Porto Alegre,3077,2022
+4315156,Progresso,PROGRESSO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,5340,2022
+4315172,Protásio Alves,PROTASIO ALVES,Nordeste Rio-grandense,Caxias do Sul,2025,2022
+4315206,Putinga,PUTINGA,Nordeste Rio-grandense,Santa Cruz do Sul - Lajeado,3747,2022
+4315305,Quaraí,QUARAI,Sudoeste Rio-grandense,Uruguaiana,23500,2022
+4315313,Quatro Irmãos,QUATRO IRMAOS,Noroeste Rio-grandense,Passo Fundo,1552,2022
+4315321,Quevedos,QUEVEDOS,Centro Ocidental Rio-grandense,Santa Maria,2507,2022
+4315354,Quinze de Novembro,QUINZE DE NOVEMBRO,Noroeste Rio-grandense,Passo Fundo,3910,2022
+4315404,Redentora,REDENTORA,Noroeste Rio-grandense,Ijuí,9738,2022
+4315453,Relvado,RELVADO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1796,2022
+4315503,Restinga Sêca,RESTINGA SECA,Centro Ocidental Rio-grandense,Santa Maria,14939,2022
+4315552,Rio dos Índios,RIO DOS INDIOS,Noroeste Rio-grandense,Passo Fundo,2835,2022
+4315602,Rio Grande,RIO GRANDE,Sudeste Rio-grandense,Pelotas,191900,2022
+4315701,Rio Pardo,RIO PARDO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,34654,2022
+4315750,Riozinho,RIOZINHO,Metropolitana de Porto Alegre,Porto Alegre,4473,2022
+4315800,Roca Sales,ROCA SALES,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,10418,2022
+4315909,Rodeio Bonito,RODEIO BONITO,Noroeste Rio-grandense,Passo Fundo,6654,2022
+4315958,Rolador,ROLADOR,Noroeste Rio-grandense,Ijuí,2291,2022
+4316006,Rolante,ROLANTE,Metropolitana de Porto Alegre,Porto Alegre,21253,2022
+4316105,Ronda Alta,RONDA ALTA,Noroeste Rio-grandense,Passo Fundo,9777,2022
+4316204,Rondinha,RONDINHA,Noroeste Rio-grandense,Passo Fundo,4991,2022
+4316303,Roque Gonzales,ROQUE GONZALES,Noroeste Rio-grandense,Ijuí,6576,2022
+4316402,Rosário do Sul,ROSARIO DO SUL,Sudoeste Rio-grandense,Uruguaiana,36630,2022
+4316428,Sagrada Família,SAGRADA FAMILIA,Noroeste Rio-grandense,Passo Fundo,2480,2022
+4316436,Saldanha Marinho,SALDANHA MARINHO,Noroeste Rio-grandense,Passo Fundo,2575,2022
+4316451,Salto do Jacuí,SALTO DO JACUI,Noroeste Rio-grandense,Passo Fundo,10203,2022
+4316477,Salvador das Missões,SALVADOR DAS MISSOES,Noroeste Rio-grandense,Ijuí,2877,2022
+4316501,Salvador do Sul,SALVADOR DO SUL,Metropolitana de Porto Alegre,Porto Alegre,6879,2022
+4316600,Sananduva,SANANDUVA,Noroeste Rio-grandense,Passo Fundo,16399,2022
+4316709,Santa Bárbara do Sul,SANTA BARBARA DO SUL,Noroeste Rio-grandense,Passo Fundo,8122,2022
+4316733,Santa Cecília do Sul,SANTA CECILIA DO SUL,Noroeste Rio-grandense,Passo Fundo,1674,2022
+4316758,Santa Clara do Sul,SANTA CLARA DO SUL,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,6887,2022
+4316808,Santa Cruz do Sul,SANTA CRUZ DO SUL,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,133230,2022
+4316907,Santa Maria,SANTA MARIA,Centro Ocidental Rio-grandense,Santa Maria,271735,2022
+4316956,Santa Maria do Herval,SANTA MARIA DO HERVAL,Metropolitana de Porto Alegre,Porto Alegre,6340,2022
+4316972,Santa Margarida do Sul,SANTA MARGARIDA DO SUL,Sudoeste Rio-grandense,Santa Maria,2596,2022
+4317004,Santana da Boa Vista,SANTANA DA BOA VISTA,Sudeste Rio-grandense,Santa Maria,7024,2022
+4317103,Sant'Ana do Livramento,SANT ANA DO LIVRAMENTO,Sudoeste Rio-grandense,Uruguaiana,84421,2022
+4317202,Santa Rosa,SANTA ROSA,Noroeste Rio-grandense,Ijuí,76963,2022
+4317251,Santa Tereza,SANTA TEREZA,Nordeste Rio-grandense,Caxias do Sul,1505,2022
+4317301,Santa Vitória do Palmar,SANTA VITORIA DO PALMAR,Sudeste Rio-grandense,Pelotas,30983,2022
+4317400,Santiago,SANTIAGO,Centro Ocidental Rio-grandense,Santa Maria,48938,2022
+4317509,Santo Ângelo,SANTO ANGELO,Noroeste Rio-grandense,Ijuí,76917,2022
+4317558,Santo Antônio do Palma,SANTO ANTONIO DO PALMA,Noroeste Rio-grandense,Passo Fundo,2091,2022
+4317608,Santo Antônio da Patrulha,SANTO ANTONIO DA PATRULHA,Metropolitana de Porto Alegre,Porto Alegre,42947,2022
+4317707,Santo Antônio das Missões,SANTO ANTONIO DAS MISSOES,Noroeste Rio-grandense,Ijuí,10300,2022
+4317756,Santo Antônio do Planalto,SANTO ANTONIO DO PLANALTO,Noroeste Rio-grandense,Passo Fundo,2089,2022
+4317806,Santo Augusto,SANTO AUGUSTO,Noroeste Rio-grandense,Ijuí,13902,2022
+4317905,Santo Cristo,SANTO CRISTO,Noroeste Rio-grandense,Ijuí,15320,2022
+4317954,Santo Expedito do Sul,SANTO EXPEDITO DO SUL,Noroeste Rio-grandense,Passo Fundo,2349,2022
+4318002,São Borja,SAO BORJA,Sudoeste Rio-grandense,Uruguaiana,59676,2022
+4318051,São Domingos do Sul,SAO DOMINGOS DO SUL,Noroeste Rio-grandense,Passo Fundo,2754,2022
+4318101,São Francisco de Assis,SAO FRANCISCO DE ASSIS,Sudoeste Rio-grandense,Santa Maria,17618,2022
+4318200,São Francisco de Paula,SAO FRANCISCO DE PAULA,Nordeste Rio-grandense,Caxias do Sul,21893,2022
+4318309,São Gabriel,SAO GABRIEL,Sudoeste Rio-grandense,Santa Maria,58487,2022
+4318408,São Jerônimo,SAO JERONIMO,Metropolitana de Porto Alegre,Porto Alegre,21028,2022
+4318424,São João da Urtiga,SAO JOAO DA URTIGA,Noroeste Rio-grandense,Passo Fundo,4461,2022
+4318432,São João do Polêsine,SAO JOAO DO POLESINE,Centro Ocidental Rio-grandense,Santa Maria,2649,2022
+4318440,São Jorge,SAO JORGE,Nordeste Rio-grandense,Caxias do Sul,2912,2022
+4318457,São José das Missões,SAO JOSE DAS MISSOES,Noroeste Rio-grandense,Passo Fundo,2362,2022
+4318465,São José do Herval,SAO JOSE DO HERVAL,Noroeste Rio-grandense,Passo Fundo,1902,2022
+4318481,São José do Hortêncio,SAO JOSE DO HORTENCIO,Metropolitana de Porto Alegre,Porto Alegre,4447,2022
+4318499,São José do Inhacorá,SAO JOSE DO INHACORA,Noroeste Rio-grandense,Ijuí,2406,2022
+4318507,São José do Norte,SAO JOSE DO NORTE,Sudeste Rio-grandense,Pelotas,25443,2022
+4318606,São José do Ouro,SAO JOSE DO OURO,Noroeste Rio-grandense,Passo Fundo,6834,2022
+4318614,São José do Sul,SAO JOSE DO SUL,Metropolitana de Porto Alegre,Porto Alegre,2380,2022
+4318622,São José dos Ausentes,SAO JOSE DOS AUSENTES,Nordeste Rio-grandense,Caxias do Sul,4172,2022
+4318705,São Leopoldo,SAO LEOPOLDO,Metropolitana de Porto Alegre,Porto Alegre,217409,2022
+4318804,São Lourenço do Sul,SAO LOURENCO DO SUL,Sudeste Rio-grandense,Pelotas,41989,2022
+4318903,São Luiz Gonzaga,SAO LUIZ GONZAGA,Noroeste Rio-grandense,Ijuí,34752,2022
+4319000,São Marcos,SAO MARCOS,Nordeste Rio-grandense,Caxias do Sul,21084,2022
+4319109,São Martinho,SAO MARTINHO,Noroeste Rio-grandense,Ijuí,5481,2022
+4319125,São Martinho da Serra,SAO MARTINHO DA SERRA,Centro Ocidental Rio-grandense,Santa Maria,2860,2022
+4319158,São Miguel das Missões,SAO MIGUEL DAS MISSOES,Noroeste Rio-grandense,Ijuí,7056,2022
+4319208,São Nicolau,SAO NICOLAU,Noroeste Rio-grandense,Ijuí,5118,2022
+4319307,São Paulo das Missões,SAO PAULO DAS MISSOES,Noroeste Rio-grandense,Ijuí,5846,2022
+4319356,São Pedro da Serra,SAO PEDRO DA SERRA,Metropolitana de Porto Alegre,Porto Alegre,3548,2022
+4319364,São Pedro das Missões,SAO PEDRO DAS MISSOES,Noroeste Rio-grandense,Passo Fundo,1757,2022
+4319372,São Pedro do Butiá,SAO PEDRO DO BUTIA,Noroeste Rio-grandense,Ijuí,3070,2022
+4319406,São Pedro do Sul,SAO PEDRO DO SUL,Centro Ocidental Rio-grandense,Santa Maria,15577,2022
+4319505,São Sebastião do Caí,SAO SEBASTIAO DO CAI,Metropolitana de Porto Alegre,Porto Alegre,24428,2022
+4319604,São Sepé,SAO SEPE,Centro Ocidental Rio-grandense,Santa Maria,21219,2022
+4319703,São Valentim,SAO VALENTIM,Noroeste Rio-grandense,Passo Fundo,3264,2022
+4319711,São Valentim do Sul,SAO VALENTIM DO SUL,Nordeste Rio-grandense,Caxias do Sul,2207,2022
+4319737,São Valério do Sul,SAO VALERIO DO SUL,Noroeste Rio-grandense,Ijuí,2543,2022
+4319752,São Vendelino,SAO VENDELINO,Metropolitana de Porto Alegre,Porto Alegre,2251,2022
+4319802,São Vicente do Sul,SAO VICENTE DO SUL,Centro Ocidental Rio-grandense,Santa Maria,8097,2022
+4319901,Sapiranga,SAPIRANGA,Metropolitana de Porto Alegre,Porto Alegre,75648,2022
+4320008,Sapucaia do Sul,SAPUCAIA DO SUL,Metropolitana de Porto Alegre,Porto Alegre,132107,2022
+4320107,Sarandi,SARANDI,Noroeste Rio-grandense,Passo Fundo,22851,2022
+4320206,Seberi,SEBERI,Noroeste Rio-grandense,Passo Fundo,11950,2022
+4320230,Sede Nova,SEDE NOVA,Noroeste Rio-grandense,Ijuí,2704,2022
+4320263,Segredo,SEGREDO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,6009,2022
+4320305,Selbach,SELBACH,Noroeste Rio-grandense,Passo Fundo,5107,2022
+4320321,Senador Salgado Filho,SENADOR SALGADO FILHO,Noroeste Rio-grandense,Ijuí,2673,2022
+4320354,Sentinela do Sul,SENTINELA DO SUL,Metropolitana de Porto Alegre,Porto Alegre,5306,2022
+4320404,Serafina Corrêa,SERAFINA CORREA,Nordeste Rio-grandense,Caxias do Sul,16961,2022
+4320453,Sério,SERIO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1941,2022
+4320503,Sertão,SERTAO,Noroeste Rio-grandense,Passo Fundo,5541,2022
+4320552,Sertão Santana,SERTAO SANTANA,Metropolitana de Porto Alegre,Porto Alegre,5863,2022
+4320578,Sete de Setembro,SETE DE SETEMBRO,Noroeste Rio-grandense,Ijuí,1830,2022
+4320602,Severiano de Almeida,SEVERIANO DE ALMEIDA,Noroeste Rio-grandense,Passo Fundo,3406,2022
+4320651,Silveira Martins,SILVEIRA MARTINS,Centro Ocidental Rio-grandense,Santa Maria,2028,2022
+4320677,Sinimbu,SINIMBU,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,8578,2022
+4320701,Sobradinho,SOBRADINHO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,14226,2022
+4320800,Soledade,SOLEDADE,Noroeste Rio-grandense,Passo Fundo,29991,2022
+4320859,Tabaí,TABAI,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,4461,2022
+4320909,Tapejara,TAPEJARA,Noroeste Rio-grandense,Passo Fundo,24557,2022
+4321006,Tapera,TAPERA,Noroeste Rio-grandense,Passo Fundo,10592,2022
+4321105,Tapes,TAPES,Metropolitana de Porto Alegre,Porto Alegre,14695,2022
+4321204,Taquara,TAQUARA,Metropolitana de Porto Alegre,Porto Alegre,53242,2022
+4321303,Taquari,TAQUARI,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,25198,2022
+4321329,Taquaruçu do Sul,TAQUARUCU DO SUL,Noroeste Rio-grandense,Passo Fundo,3119,2022
+4321352,Tavares,TAVARES,Metropolitana de Porto Alegre,Porto Alegre,5212,2022
+4321402,Tenente Portela,TENENTE PORTELA,Noroeste Rio-grandense,Ijuí,14497,2022
+4321436,Terra de Areia,TERRA DE AREIA,Metropolitana de Porto Alegre,Porto Alegre,10334,2022
+4321451,Teutônia,TEUTONIA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,32797,2022
+4321469,Tio Hugo,TIO HUGO,Noroeste Rio-grandense,Passo Fundo,3267,2022
+4321477,Tiradentes do Sul,TIRADENTES DO SUL,Noroeste Rio-grandense,Ijuí,5129,2022
+4321493,Toropi,TOROPI,Centro Ocidental Rio-grandense,Santa Maria,2554,2022
+4321501,Torres,TORRES,Metropolitana de Porto Alegre,Porto Alegre,41751,2022
+4321600,Tramandaí,TRAMANDAI,Metropolitana de Porto Alegre,Porto Alegre,54387,2022
+4321626,Travesseiro,TRAVESSEIRO,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,2152,2022
+4321634,Três Arroios,TRES ARROIOS,Noroeste Rio-grandense,Passo Fundo,2591,2022
+4321667,Três Cachoeiras,TRES CACHOEIRAS,Metropolitana de Porto Alegre,Porto Alegre,10962,2022
+4321709,Três Coroas,TRES COROAS,Metropolitana de Porto Alegre,Porto Alegre,24425,2022
+4321808,Três de Maio,TRES DE MAIO,Noroeste Rio-grandense,Ijuí,24916,2022
+4321832,Três Forquilhas,TRES FORQUILHAS,Metropolitana de Porto Alegre,Porto Alegre,2760,2022
+4321857,Três Palmeiras,TRES PALMEIRAS,Noroeste Rio-grandense,Passo Fundo,4716,2022
+4321907,Três Passos,TRES PASSOS,Noroeste Rio-grandense,Ijuí,25436,2022
+4321956,Trindade do Sul,TRINDADE DO SUL,Noroeste Rio-grandense,Passo Fundo,7556,2022
+4322004,Triunfo,TRIUNFO,Metropolitana de Porto Alegre,Porto Alegre,27498,2022
+4322103,Tucunduva,TUCUNDUVA,Noroeste Rio-grandense,Ijuí,5542,2022
+4322152,Tunas,TUNAS,Noroeste Rio-grandense,Santa Cruz do Sul - Lajeado,3681,2022
+4322186,Tupanci do Sul,TUPANCI DO SUL,Noroeste Rio-grandense,Passo Fundo,1374,2022
+4322202,Tupanciretã,TUPANCIRETA,Centro Ocidental Rio-grandense,Passo Fundo,20005,2022
+4322251,Tupandi,TUPANDI,Metropolitana de Porto Alegre,Porto Alegre,5029,2022
+4322301,Tuparendi,TUPARENDI,Noroeste Rio-grandense,Ijuí,8363,2022
+4322327,Turuçu,TURUCU,Sudeste Rio-grandense,Pelotas,3419,2022
+4322343,Ubiretama,UBIRETAMA,Noroeste Rio-grandense,Ijuí,1994,2022
+4322350,União da Serra,UNIAO DA SERRA,Nordeste Rio-grandense,Caxias do Sul,1170,2022
+4322376,Unistalda,UNISTALDA,Centro Ocidental Rio-grandense,Santa Maria,1995,2022
+4322400,Uruguaiana,URUGUAIANA,Sudoeste Rio-grandense,Uruguaiana,117210,2022
+4322509,Vacaria,VACARIA,Nordeste Rio-grandense,Caxias do Sul,64197,2022
+4322525,Vale Verde,VALE VERDE,Metropolitana de Porto Alegre,Santa Cruz do Sul - Lajeado,3150,2022
+4322533,Vale do Sol,VALE DO SOL,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,9897,2022
+4322541,Vale Real,VALE REAL,Metropolitana de Porto Alegre,Caxias do Sul,6058,2022
+4322558,Vanini,VANINI,Noroeste Rio-grandense,Passo Fundo,2004,2022
+4322608,Venâncio Aires,VENANCIO AIRES,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,68763,2022
+4322707,Vera Cruz,VERA CRUZ,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,26710,2022
+4322806,Veranópolis,VERANOPOLIS,Nordeste Rio-grandense,Caxias do Sul,24021,2022
+4322855,Vespasiano Corrêa,VESPASIANO CORREA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,1818,2022
+4322905,Viadutos,VIADUTOS,Noroeste Rio-grandense,Passo Fundo,4769,2022
+4323002,Viamão,VIAMAO,Metropolitana de Porto Alegre,Porto Alegre,224112,2022
+4323101,Vicente Dutra,VICENTE DUTRA,Noroeste Rio-grandense,Passo Fundo,4665,2022
+4323200,Victor Graeff,VICTOR GRAEFF,Noroeste Rio-grandense,Passo Fundo,2780,2022
+4323309,Vila Flores,VILA FLORES,Nordeste Rio-grandense,Caxias do Sul,3646,2022
+4323358,Vila Lângaro,VILA LANGARO,Noroeste Rio-grandense,Passo Fundo,2079,2022
+4323408,Vila Maria,VILA MARIA,Noroeste Rio-grandense,Passo Fundo,4413,2022
+4323457,Vila Nova do Sul,VILA NOVA DO SUL,Centro Ocidental Rio-grandense,Santa Maria,3863,2022
+4323507,Vista Alegre,VISTA ALEGRE,Noroeste Rio-grandense,Passo Fundo,2660,2022
+4323606,Vista Alegre do Prata,VISTA ALEGRE DO PRATA,Nordeste Rio-grandense,Caxias do Sul,1590,2022
+4323705,Vista Gaúcha,VISTA GAUCHA,Noroeste Rio-grandense,Ijuí,2783,2022
+4323754,Vitória das Missões,VITORIA DAS MISSOES,Noroeste Rio-grandense,Ijuí,3260,2022
+4323770,Westfália,WESTFALIA,Centro Oriental Rio-grandense,Santa Cruz do Sul - Lajeado,3098,2022
+4323804,Xangri-lá,XANGRI LA,Metropolitana de Porto Alegre,Porto Alegre,16463,2022
